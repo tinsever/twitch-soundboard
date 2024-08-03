@@ -1,6 +1,3 @@
-<script lang="ts">
-</script>
-
 <svelte:head>
 <title>Startseite</title>
 </svelte:head>
